@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Geerten Vink</Authors>
+    <Company />
+    <Product />
+    <Description>Nederlandse C#, zeer gelimiteerd, vooal als grap.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="NUnit" Version="3.13.2" />
+	</ItemGroup>
+
+</Project>
