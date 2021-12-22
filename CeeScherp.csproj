@@ -8,6 +8,7 @@
     <Description>Nederlandse C#, zeer gelimiteerd, vooal als grap.</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/genveir/CeeScherp</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 	<ItemGroup>
